@@ -1,0 +1,36 @@
+.outer_div{
+    background-color: rgb(199, 152, 242);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+}
+.inner_div{
+    width: 50%;
+    height: 92vh;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px  rgb(206, 57, 169);
+    background-color: rgb(228, 215, 241);
+    color: black;
+    font-size: 1.2rem;
+    text-align: center;
+}
+.formContent form{
+    padding: 5px 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+.formContent h3{
+    text-transform: uppercase;
+
+}
+.input_block {
+    margin: 5px 3px;
+}
+.form_error{
+    color: red;
+    font-size: 13px;
+    font-style: italic;
+}
