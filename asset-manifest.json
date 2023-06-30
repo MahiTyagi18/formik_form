@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/formik_form/static/css/main.b404db6c.css",
+    "main.js": "/formik_form/static/js/main.9727e335.js",
+    "index.html": "/formik_form/index.html",
+    "main.b404db6c.css.map": "/formik_form/static/css/main.b404db6c.css.map",
+    "main.9727e335.js.map": "/formik_form/static/js/main.9727e335.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b404db6c.css",
+    "static/js/main.9727e335.js"
+  ]
+}
